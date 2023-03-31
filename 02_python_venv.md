@@ -71,7 +71,7 @@ def greeting(name):
 ├── setup.py
 └── spidercode
     ├── __init__.py
-    └── main.py
+    └── duzhikov.py
 ```
 
 - Далее нужно установить ваш пакет в `venv`
